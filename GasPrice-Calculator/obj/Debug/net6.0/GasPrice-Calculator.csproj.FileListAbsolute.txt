@@ -1,0 +1,15 @@
+C:\Users\Igorb\Documents\DevProjects\Gas Price-Calculator\GasPrice-Calculator\GasPrice-Calculator\bin\Debug\net6.0\GasPrice-Calculator.exe
+C:\Users\Igorb\Documents\DevProjects\Gas Price-Calculator\GasPrice-Calculator\GasPrice-Calculator\bin\Debug\net6.0\GasPrice-Calculator.deps.json
+C:\Users\Igorb\Documents\DevProjects\Gas Price-Calculator\GasPrice-Calculator\GasPrice-Calculator\bin\Debug\net6.0\GasPrice-Calculator.runtimeconfig.json
+C:\Users\Igorb\Documents\DevProjects\Gas Price-Calculator\GasPrice-Calculator\GasPrice-Calculator\bin\Debug\net6.0\GasPrice-Calculator.dll
+C:\Users\Igorb\Documents\DevProjects\Gas Price-Calculator\GasPrice-Calculator\GasPrice-Calculator\bin\Debug\net6.0\GasPrice-Calculator.pdb
+C:\Users\Igorb\Documents\DevProjects\Gas Price-Calculator\GasPrice-Calculator\GasPrice-Calculator\obj\Debug\net6.0\GasPrice-Calculator.csproj.AssemblyReference.cache
+C:\Users\Igorb\Documents\DevProjects\Gas Price-Calculator\GasPrice-Calculator\GasPrice-Calculator\obj\Debug\net6.0\GasPrice-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igorb\Documents\DevProjects\Gas Price-Calculator\GasPrice-Calculator\GasPrice-Calculator\obj\Debug\net6.0\GasPrice-Calculator.AssemblyInfoInputs.cache
+C:\Users\Igorb\Documents\DevProjects\Gas Price-Calculator\GasPrice-Calculator\GasPrice-Calculator\obj\Debug\net6.0\GasPrice-Calculator.AssemblyInfo.cs
+C:\Users\Igorb\Documents\DevProjects\Gas Price-Calculator\GasPrice-Calculator\GasPrice-Calculator\obj\Debug\net6.0\GasPrice-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Igorb\Documents\DevProjects\Gas Price-Calculator\GasPrice-Calculator\GasPrice-Calculator\obj\Debug\net6.0\GasPrice-Calculator.dll
+C:\Users\Igorb\Documents\DevProjects\Gas Price-Calculator\GasPrice-Calculator\GasPrice-Calculator\obj\Debug\net6.0\refint\GasPrice-Calculator.dll
+C:\Users\Igorb\Documents\DevProjects\Gas Price-Calculator\GasPrice-Calculator\GasPrice-Calculator\obj\Debug\net6.0\GasPrice-Calculator.pdb
+C:\Users\Igorb\Documents\DevProjects\Gas Price-Calculator\GasPrice-Calculator\GasPrice-Calculator\obj\Debug\net6.0\GasPrice-Calculator.genruntimeconfig.cache
+C:\Users\Igorb\Documents\DevProjects\Gas Price-Calculator\GasPrice-Calculator\GasPrice-Calculator\obj\Debug\net6.0\ref\GasPrice-Calculator.dll
